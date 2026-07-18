@@ -188,24 +188,6 @@ Product Development
 
 ---
 
-## GitHub 活躍度
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iceccoux1124&show_icons=true&hide_border=true" alt="GitHub Stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceccoux1124&layout=compact&hide_border=true" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 聯絡方式
 
 * GitHub：[iceccoux1124](https://github.com/iceccoux1124)
