@@ -113,34 +113,6 @@ Product Development
 
 `Angular` `TypeScript` `SCSS` `Go` `MongoDB` `Docker` `RESTful API`
 
-* [GitHub Repository](https://github.com/YOUR_GITHUB_USERNAME/3rd_kirali_website)
-* [Backend Repository](https://github.com/YOUR_GITHUB_USERNAME/3rd_kirali_website_backend)
-* [Live Website](YOUR_LIVE_WEBSITE_URL)
-
----
-
-### Git Rescue Lab｜互動式 Git 情境學習工具
-
-> 透過可操作的 Repository 模擬環境，幫助初學者理解 Git 問題背後的狀態變化，而不是只背誦指令。
-
-專案將 Local Branch、Remote-Tracking Branch 與 Actual Remote Branch 分開建模，讓使用者能看見 Fetch、Pull、Merge、Rebase 與 Push 實際改變了哪些狀態。
-
-#### 核心功能
-
-* 情境式 Git 問題教學
-* Repository State 視覺化
-* Fetch、Pull、Merge、Rebase 與 Push 模擬
-* Force Push 後果預覽與安全提示
-* 多條問題解決路徑
-* 操作結果與 Git 概念解釋
-
-#### 技術
-
-`Nuxt` `Vue` `TypeScript` `State Modeling` `Git`
-
-* [GitHub Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GIT_RESCUE_LAB_REPOSITORY)
-* [Live Demo](YOUR_GIT_RESCUE_LAB_URL)
-
 ---
 
 ### 企業 CMS 前端安全與需求開發
@@ -180,10 +152,6 @@ Product Development
 * MongoDB Data Modeling
 * Docker Deployment
 * System Design
-* Automated Testing
-* Web Accessibility
-* English for International Collaboration
-* Human-Computer Interaction
 * Human-AI Interaction
 
 ---
