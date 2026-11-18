@@ -93,7 +93,7 @@ Product Development
 
 ## 精選專案
 
-### 三基而後行｜VTuber 週年互動紀念網站
+### [三基而後行｜VTuber 週年互動紀念網站](https://3rd.withkirali.com/)
 
 > 一個結合互動遊戲、內容展示、使用者投稿與旅程紀錄的完整週年紀念產品。
 
@@ -160,7 +160,7 @@ Product Development
 
 * GitHub：[iceccoux1124](https://github.com/iceccoux1124)
 * Email：iceccoux1124@gmail.com
-* Portfolio：[個人作品集](YOUR_PORTFOLIO_URL)
+* Portfolio：[個人網站](https://bernicebuilds.com/)
 
 ---
 
